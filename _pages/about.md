@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Caio Jordão Carvalho's Home Page"
 author_profile: true
 redirect_from: 
   - /about/
