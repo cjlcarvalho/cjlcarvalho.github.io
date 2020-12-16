@@ -4,8 +4,6 @@ date: "2019-06-02"
 coverImage: "img-20190127-wa0078.jpg"
 ---
 
-Hello, everyone!
-
 There has been some months since my last post here. It has happened because I was in Canada since the beginning of this year, being very busy and having a lot of assignments to do. I was selected to be a exchange student, receiving a scholarship that was given by the government of Canada in the Emerging Leaders in the Americas Program (ELAP). I have traveled to the city of Cranbrook, British Columbia, to study in the College of the Rockies. It has been an amazing experience for me and I will explain why.
 
 Before the beginning of the exchange program, I was waiting for my approval in ELAP since February 2018, as I have received the news that I _could_ be selected. Then, only in December they have confirmed my approval and I was very happy for that. However, I had to arrive at Canada until January 2019, so I had less than a month to prepare all the things related to my visa and tickets. It was a crazy rush, as we were closer to December holidays and there were some delays during this process. I have received my visa only after the beginning of January and then I could buy my airplane tickets and plan the travel. For those who are reading this and are living in a similar experience, one good advice is that you need to try to relax and look at the things in a good way as there is nothing to do except hoping that your visa will be approved and that everything is going to be ok.

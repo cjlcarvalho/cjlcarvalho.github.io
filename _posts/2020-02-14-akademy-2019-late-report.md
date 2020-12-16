@@ -4,8 +4,6 @@ date: "2020-02-14"
 coverImage: "sok.jpg"
 ---
 
-Hello, everyone!
-
 There has been some time since my last blog post. It has happened because of a good cause, since I was focusing on my undergraduate thesis. Now I have finished it and finally have completed my graduation, yay! Soon I will include my thesis on my blog and share it with the world... I have just decided to fix some details in the project before that. Anyway, this post is to comment about my participation in Akademy 2019. I will give a brief report, share my experiences and tell you about how this experience was for me.
 
 \[caption id="attachment\_991" align="aligncenter" width="499"\]![IMG_20190908_140658](https://caiojcarvalho.files.wordpress.com/2020/02/img_20190908_140658-e1581704059800.jpg?w=499) My badge!\[/caption\]

@@ -3,9 +3,7 @@ title: "LaKademy 2018 - First Day (October 11th)"
 date: "2018-10-12"
 ---
 
-LaKademy 2018 has started!
-
-It is happening in the city of Florianópolis in Brazil. It is being a nice opportunity for me to meet some other KDE contributors from Latin America. We are discussing ideas for KDE in Latin America and everybody is working on something related to the community. The event will continue until October 14th. Below you can see some photos:
+LaKademy 2018 has started! It is happening in the city of Florianópolis in Brazil. It is being a nice opportunity for me to meet some other KDE contributors from Latin America. We are discussing ideas for KDE in Latin America and everybody is working on something related to the community. The event will continue until October 14th. Below you can see some photos:
 
 \[caption id="attachment\_854" align="aligncenter" width="1280"\]![photo5042111741319817248](images/photo5042111741319817248.jpg) _Aracele and Filipe talking about the event._\[/caption\]
 

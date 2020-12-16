@@ -4,9 +4,7 @@ date: "2018-10-16"
 coverImage: "45240878302_3596d2b8da_k.jpg"
 ---
 
-The third day of LaKademy 2018 was my last day participating on the event.
-
-During October 13th, we started the day with a promo reunion. This reunion was done to discuss about some plans and actions for the Latin American KDE community over the next year. Some decisions were made and topics were discussed involving KDE participation in some events, promotion of our own events in Latin America, including LaKademy 2019 and Kafé com Qt, and some details in general about our community.
+The third day of LaKademy 2018 was my last day participating on the event. During October 13th, we started the day with a promo reunion. This reunion was done to discuss about some plans and actions for the Latin American KDE community over the next year. Some decisions were made and topics were discussed involving KDE participation in some events, promotion of our own events in Latin America, including LaKademy 2019 and Kafé com Qt, and some details in general about our community.
 
 \[caption id="attachment\_872" align="aligncenter" width="679"\]![45240878072_c28ef37799_k](images/45240878072_c28ef37799_k.jpg) _Promo reunion._\[/caption\]
 

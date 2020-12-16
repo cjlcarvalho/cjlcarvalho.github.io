@@ -4,8 +4,6 @@ date: "2018-11-16"
 coverImage: "45868719871_439451f18e_k.jpg"
 ---
 
-Hi!
-
 I had the opportunity to participate in QtCon Brasil 2018 as a speaker during the last weekend. It happened in São Paulo, which is a city that I haven't visited for a long time. My talk was about the integration of Qt applications and Computer Vision, specially focused on the mobile environment with QtQuick and QML.
 
 During my presentation, I was focused on introducing some concepts to the people who just have heard or never had contact with Computer Vision. I talked a little bit about OpenCV, including an brief explanation about its modules and how they work, and I presented a little example of object recognition application made with QML [(the code is available in the repository)](https://github.com/cjlcarvalho/qml-recognition).

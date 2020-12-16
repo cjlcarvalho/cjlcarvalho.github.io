@@ -4,8 +4,6 @@ date: "2019-08-08"
 coverImage: "img_20190624_181446.jpg"
 ---
 
-Hello!
-
 In June, I had the opportunity to be the mentor representing KDE in the Google Code-in (GCi) 2018 trip in San Francisco, California. For those who don't know what GCi is, it is basically a competition organized by Google for students with ages between 13-17 years old that introduces them into open source contributions with some tasks involving coding, documentation, artwork, etc.
 
 In the end of this program, each participant open source organization selects two winners based on their involvement with the community projects and the number of tasks that they have completed.  I have participated in this program as one of the mentors for the KDE community and this previous [post](https://caiojcarvalho.wordpress.com/2019/01/02/google-code-in-2018-my-first-experience-as-a-mentor-in-kde/) explains about how amazing my experience was.

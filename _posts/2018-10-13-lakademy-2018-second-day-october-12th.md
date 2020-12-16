@@ -4,9 +4,7 @@ date: "2018-10-13"
 coverImage: "44365101645_07eb28a1c2_o.jpg"
 ---
 
-Every new code follows new bugs.
-
-During the second day of LaKademy I was more focused on resolution of bugs in the code that I implemented during the first day for KDE Partition Manager. During the afternoon, I decided to start RAID resizing and discussed with Andrius Stikonas on calamares IRC channel about some RAID functionalities related to resizing disks and about bugs on both LVM and RAID. I also talked with some KDE coders here in LaKademy about Qt and C++, learning more about it.
+Every new code follows new bugs. During the second day of LaKademy I was more focused on resolution of bugs in the code that I implemented during the first day for KDE Partition Manager. During the afternoon, I decided to start RAID resizing and discussed with Andrius Stikonas on calamares IRC channel about some RAID functionalities related to resizing disks and about bugs on both LVM and RAID. I also talked with some KDE coders here in LaKademy about Qt and C++, learning more about it.
 
 \[caption id="attachment\_863" align="aligncenter" width="4032"\]![OLYMPUS DIGITAL CAMERA](images/44363093065_76744780ca_o1.jpg) _Image 1: Concentrated while coding._\[/caption\]
 
