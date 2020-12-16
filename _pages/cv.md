@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Systems Analysis and Development, Federal Institute of Science, Technology and Education of Bahia, 2016-2019
+* B.Tech. in Systems Analysis and Development, Federal Institute of Bahia, 2016-2019
 * Exchange Student in Applied Sciences, College of the Rockies, 2019
-* Specialization Degree in Business Intelligence and Data Analytics, Salvador University, 2022 (expected)
+* Specialization Degree in Business Intelligence and Data Analytics, Salvador University, 2020-2022 (expected)
 
 Work experience
 ======
