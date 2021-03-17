@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Deep Autoencoder Approach to Enhance Low-Light Images during Minimally Invasive Procedures"
 collection: theses
 permalink: /theses/undergraduate
 excerpt: 'This project presents a model based on a deep neural approach that is able to improve low-light surgical images, making them more optimized for analysis processes performed by human surgeons or assistant robots.'
