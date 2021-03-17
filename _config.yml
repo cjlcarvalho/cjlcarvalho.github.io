@@ -231,10 +231,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _thesis
+  # _theses
   - scope:
       path: ""
-      type: thesis
+      type: theses
     values:
       layout: single
       author_profile: true
