@@ -4,7 +4,7 @@ collection: theses
 permalink: /theses/undergraduate
 excerpt: 'This project presents a model based on a deep neural approach that is able to improve low-light surgical images, making them more optimized for analysis processes performed by human surgeons or assistant robots.'
 date: 2019-10-13
-thesistype: 'Undergraduate Final Work (2019)'
+thesistype: 'Undergraduate Final Work'
 paperurl: 'http://cjlcarvalho.github.io/files/undergraduate_thesis.pdf'
 advisor: 'Antonio Carlos dos Santos Souza'
 citation: '<b>Carvalho, Caio Jordão</b>; Souza, Antonio Carlos. (2019). &quot;Deep Autoencoder Approach to Enhance Low-Light Images during Minimally Invasive Procedures.&quot;'
