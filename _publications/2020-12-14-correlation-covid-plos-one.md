@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2020-12-14-correlation-covid-plos-one
 excerpt: 'In this paper, we provide a retrospective cohort study with patients that have been hospitalized for general or intensive care unit admission due to COVID-19, between March 3 and July 29, 2020, in the state of Bahia, Brazil. We aim to correlate those patients’ demographics, symptoms and comorbidities, with the risk of mortality from COVID-19, length of hospital stay, and time from diagnosis to definitive outcome.'
 date: 2020-12-14
-venue: 'PLoS ONE (journal)'
+venue: 'PLoS ONE'
+venuetype: 'Journal'
 paperurl: 'http://cjlcarvalho.github.io/files/2020_plos_one.pdf'
 citation: 'Macedo MCF, Pinheiro IM, <b>Carvalho CJL</b>, Fraga HCJR, Araujo IPC, Montes SS, et al. (2020) &quot;Correlation between hospitalized patients’ demographics, symptoms, comorbidities, and COVID-19 pandemic in Bahia, Brazil.&quot; <i>PLoS ONE</i> 15(12): e0243966. https://doi.org/10.1371/journal.pone.0243966'
 ---
