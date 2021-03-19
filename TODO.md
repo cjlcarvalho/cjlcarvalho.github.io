@@ -1,4 +1,6 @@
 - Update Talks
 - Include Talkmap
 - Solve errors in blog posts
+- Add post tags
+- Check if kde tag xml feed is working
 - Update resume
