@@ -1,0 +1,2 @@
+- Update Talks
+- Solve errors in blog posts
