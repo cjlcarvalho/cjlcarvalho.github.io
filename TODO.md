@@ -1,2 +1,3 @@
 - Update Talks
+- Include Talkmap
 - Solve errors in blog posts
