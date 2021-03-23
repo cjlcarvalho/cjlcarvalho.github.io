@@ -1,5 +1,5 @@
 - Update Talks
-- Include Talkmap
+- Include slides files in Talks
 - Solve errors in blog posts
 - Add post tags
 - Check if kde tag xml feed is working
