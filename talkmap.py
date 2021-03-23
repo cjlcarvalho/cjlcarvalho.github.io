@@ -15,10 +15,10 @@ import glob
 import getorg
 from geopy import Nominatim
 
-g = glob.glob("*.md")
+g = glob.glob("_talks/*.md")
 
 
-geocoder = Nominatim()
+geocoder = Nominatim(user_agent="my-application")
 location_dict = {}
 location = ""
 permalink = ""
