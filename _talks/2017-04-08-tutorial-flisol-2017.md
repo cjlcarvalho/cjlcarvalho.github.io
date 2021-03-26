@@ -10,4 +10,4 @@ location: "Salvador, Bahia, Brazil"
 
 [More information here](https://flisol.info/FLISOL2017/Brasil/Salvador)
 
-This tutorial was intended to show a little about the shell script and teach about the power of this language in automating tasks in bash. Some basic concepts of the language were covered, such as syntax and the creation of small scripts to make life easier for new Linux users.
+This tutorial was intended to show a little about shell script and teach about the power of this language in automating tasks in bash. Some basic concepts of the language were covered, such as syntax and the creation of small scripts to make life easier for new Linux users.
